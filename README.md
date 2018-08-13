@@ -1,2 +1,2 @@
-# Devops-BD
+# DevOps-BD
 Repositório de aula.
